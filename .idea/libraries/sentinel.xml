@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sentinel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JSD2206-S4-DOC/doc/sentinel.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
